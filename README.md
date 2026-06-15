@@ -1,2 +1,3 @@
-# cryptocurrency_analytics_pipeline
+# Cryptocurrency Analytics Pipeline
 
+This learning project marks my first hands-on experience building a basic ETL pipeline. The pipeline extracts the past 365 days of Bitcoin price data from the CoinGecko public API, utilizes Pandas to transform raw Unix timestamps into readable dates and round prices to two decimal places, and stores the final data in SQLite. Huge thanks to Google Gemini for the mentorship and guidance throughout the design and implementation of this project!
